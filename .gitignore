@@ -1,0 +1,19 @@
+# Archivos temporales del sistema
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# Archivos de Windows
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Backups locales
+*.bak
+*.old
+*~
+
+# Archivos personales/sensibles (descomentar si los agrega en el futuro)
+# config_local.ps1
+# secrets.txt
+# api_keys.txt
